@@ -13,3 +13,9 @@ Install component
 ```bash
 bower install purescript-math --save
 ```
+
+Interactive console
+
+```bash
+pulp psci
+```
